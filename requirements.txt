@@ -11,4 +11,4 @@ requests==2.34.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.5.0
-annotated-doc==0.0.4
+
